@@ -17,6 +17,10 @@
 /* IP addresses are used directly because a memory allocation error occurs in the execution for CHERI capabilities 
 when using DNS. */
 
+// Define URLs and ports for APIs
+/* IP addresses are used directly because a memory allocation error occurs in the execution for CHERI capabilities 
+when using DNS. */
+
 #define API1_URL "200.17.87.181" // It's the IP address of: gca-vm-4.unijui.edu.br
 #define API1_PORT "8080"
 #define API1_ENDPOINT "/api/vendas"
